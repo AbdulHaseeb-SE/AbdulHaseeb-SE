@@ -3,12 +3,12 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhaseeb-se&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhaseeb-se" /> </p>
 
-- 🚀 Continuously improving my skills through hands-on coding, real projects, and lifelong learning.
-- 🧠 Also Experienced in <b>Front-End Development</b>, and currently diving deep into <b>Data Analytics & Visualization</b>.
-- 🎯 Eager to contribute to meaningful projects that blend creativity with technology and solve real-world problems.
-- 🌱 Actively learning and practicing tools like <b>Python</b>, <b>Pandas</b>, and <b>Power BI</b> to expand my data skillset.
-- 🛠️ Explore my work at [Wolf Byte Technologies](https://www.wolfbytetechnologies.com/)
-- 📬 Feel free to reach out: [abdulhaseeb621.official@gmail.com](mailto:abdulhaseeb621.official@gmail.com)
+- Continuously improving my skills through hands-on coding, real projects, and lifelong learning.
+- Also Experienced in <b>Front-End Development</b>, and currently diving deep into <b>Data Analytics & Visualization</b>.
+- Eager to contribute to meaningful projects that blend creativity with technology and solve real-world problems.
+- Actively learning and practicing tools like <b>Python</b>, <b>Pandas</b>, and <b>Power BI</b> to expand my data skillset.
+- Explore my work at [Wolf Byte Technologies](https://www.wolfbytetechnologies.com/)
+- Feel free to reach out: [abdulhaseeb621.official@gmail.com](mailto:abdulhaseeb621.official@gmail.com)
 - My Live Projects on Google Play Store:
   - [Behavidence](https://play.google.com/store/apps/details?id=com.cohen.behavidence)
   - [IELTS Tips & Preparation](https://play.google.com/store/apps/details?id=com.WolfByteTechnologies.IELTS.IELTSpreparation.IELTSpractice.IELTStips.IELTShighband)
@@ -28,7 +28,7 @@
 <br>
 <h2 align="left">Skills:</h2>
 
-<h3>📱 Android Development</h3>
+<h3>Android Development</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -58,7 +58,7 @@
 
 <br/>
 
-<h3>💻 Front-End & UI</h3>
+<h3>Front-End & UI</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -76,7 +76,7 @@
 
 <br/>
 
-<h3>📊 Data Analytics, Backend, & Databases</h3>
+<h3>Data Analytics, Backend, & Databases</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -103,7 +103,7 @@
 
 <br/>
 
-<h3>🛠️ Tools & DevOps</h3>
+<h3>Tools & DevOps</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
