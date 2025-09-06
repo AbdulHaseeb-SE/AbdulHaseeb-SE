@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Abdul Haseeb, a Software Engineer.</h1> <h2>Currently getting into Data & AI</h2>
+<h1 align="left">Hi 👋, I'm Abdul Haseeb, a Software Engineer.<h2>Currently getting into Data & AI</h2></h1> 
 <p align="left">Having Expertise in <b>Android App Development</b> with <b>3+ years</b> of hands-on experience in building scalable and high-performance mobile applications. I specialize in modern architectural patterns <b>(MVP, MVVM, Modular and Clean-Code)</b>. Passionate about creating seamless user experiences and delivering high-quality applications. 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhaseeb-se&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhaseeb-se" /> </p>
